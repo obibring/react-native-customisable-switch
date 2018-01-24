@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baderahmed/react-native-customisable-switch.git#commit-ish"
+    "url": "https://github.com/obibring/react-native-customisable-switch.git"
   },
   "keywords": [
     "react-native",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/baderahmed/react-native-customisable-switch/issues"
   },
-  "homepage": "https://github.com/baderahmed/react-native-customisable-switch/tree/commit-ish#readme"
+  "homepage": "https://github.com/baderahmed/react-native-customisable-switch/tree/commit-ish#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
