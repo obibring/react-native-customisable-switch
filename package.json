@@ -1,6 +1,6 @@
 {
   "name": "react-native-customisable-switch",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "A React Native module that allows you to customize switch (style, form and animation), availble for android and IOS.",
   "main": "index.js",
   "scripts": {
